@@ -7,5 +7,5 @@ In this session, we’ll explore four simple rules for choosing libraries: keepi
 
 Through real-world examples (both the good and the not-so-good), we’ll cover practical tips for maintaining flexibility, performance, and sanity while working with 3rd party tools.
 
-## Expert Consultation Offer
-https://bit.ly/th-offer
+## Schedule Time With Me
+https://trailheadtechnology.com/connect/?t=3rd-party-libs
